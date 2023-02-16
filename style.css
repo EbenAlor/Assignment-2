@@ -1,0 +1,56 @@
+/* Add custom CSS styles here */
+h3 {
+    color: lightblue;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+.container {
+    margin-top: 50px;
+  }
+
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+
+  table {
+    margin-top: 50px;
+  }
+
+  .favorites {
+    margin-top: 50px;
+  }
+
+  ul {
+      list-style-position: inside;
+  }
+
+  ol {
+    list-style-position: inside;
+}
+  
